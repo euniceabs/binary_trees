@@ -1,10 +1,14 @@
 #ifndef _BINARY_TREES_H_
 #define _BINARY_TREES_H_
 
+#include <stdlib.h>
 #include <stddef.h>
 #include <stdlib.h>
-#include <string.h>
 #include <stdio.h>
+#include <string.h>
+#include <unistd.h>
+#include <math.h>
+#include <limits.h>
 
 /* DATA STRUCTURES */
 
